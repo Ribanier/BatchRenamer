@@ -1,0 +1,10 @@
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\bin\Debug\BatchRenamer.exe.config
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\bin\Debug\BatchRenamer.exe
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\bin\Debug\BatchRenamer.pdb
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\obj\Debug\BatchRenamer.csproj.AssemblyReference.cache
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\obj\Debug\BatchRenamer.Properties.Resources.resources
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\obj\Debug\BatchRenamer.csproj.GenerateResource.cache
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\obj\Debug\BatchRenamer.csproj.CoreCompileInputs.cache
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\obj\Debug\BatchRenamer.exe
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\obj\Debug\BatchRenamer.pdb
+C:\Users\sadik\source\repos\BatchRenamer\BatchRenamer\obj\Debug\BatchRenamer.BatchRenamer.resources
